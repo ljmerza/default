@@ -468,6 +468,7 @@
   "linsvensson/sensor.greenely",
   "ljmerza/ha-email-sensor",
   "ljmerza/ha-our-groceries",
+  "ljmerza/harmony-remote-card",
   "lociii/homeassistant-csgo",
   "lolouk44/CurrentCost_HA_CC",
   "LordBoos/discord_game",
